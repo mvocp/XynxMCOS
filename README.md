@@ -1,2 +1,6 @@
-# XynxMCOS
-simple solution for minecraft server's website.
+# XynxMCOS（PHP）
+简单的MC社区服务器官网实现，开发中，目标功能：
+- 模板系统
+- 白名单自助申请系统
+- 黑名单申诉
+- 新闻系统
